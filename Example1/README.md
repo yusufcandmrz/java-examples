@@ -1,1 +1,1 @@
-Kullanıcıdan, kullanıcının belirlemiş olduğu kadar sayı alıyor. Girilen bu sayıların en küçüğünü, en büyüğünü ve aritmetik ortalaması bilgilerini ekrana veriyor.
+Kullanıcıdan, kullanıcının belirlemiş olduğu kadar sayı alıp, girilen bu sayıların en küçüğünü, en büyüğünü ve aritmetik ortalaması bilgilerini ekrana veren kod
