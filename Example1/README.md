@@ -1,1 +1,1 @@
-Kullanıcıdan, kullanıcının belirlemiş olduğu kadar sayı alıp, girilen bu sayıların en küçüğünü, en büyüğünü ve aritmetik ortalaması bilgilerini ekrana veren kod
+Kullanıcı tarafından verilen bir tam sayı dizisindeki en büyük sayıyı, en küçük sayıyı ve girilen sayıların aritmetik ortlamasını bulan algoritma
