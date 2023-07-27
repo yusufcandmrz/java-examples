@@ -1,1 +1,1 @@
-Verilen bir dizide, toplamları hedef değere eşit olan tüm olası sayı çiftlerini bulan program
+Verilen bir dizide, toplamları hedef değere eşit olan tüm olası sayı çiftlerini bulan algoritma
