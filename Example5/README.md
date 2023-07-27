@@ -1,1 +1,1 @@
-Verilen bir dizi içinde tekrar eden sayıları bulan bir Java programı
+Verilen bir dizi içinde tekrar eden sayıları bulan algoritma
